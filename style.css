@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
+body{
+    background-color: white;
+    margin: 1rem;
+}
+.bg-img{
+    background-image: url(https://www.castlegarnews.com/wp-content/uploads/2021/08/26090354_web1_210809-Impress-WCT-OutdoorsWest_1.jpg);;
+}
+h1{
+    text-align: center;
+    position: relative;
+    top: -2rem;
+}
+h3{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 2.5rem;
+}
+.container{
+    width: 60rem;
+    max-width: 100rem;
+    font-size: 2rem;
+    padding: 1rem;
+    color:whitesmoke;
+    position: relative;
+    top: 30rem;
+    float: right;
+}
+li{
+    display: inline;
+    font-size: 2rem;
+}
+li a{
+    text-decoration: none;
+    color: whitesmoke;
+}
